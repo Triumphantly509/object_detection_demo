@@ -1,2 +1,2 @@
 <?xml version='1.0' encoding='us-ascii'?>
-<annotations><filename>Calc-Training_P_01229_RIGHT_CC.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>tumor</name><difficult>0</difficult><pose>Unspecified</pose><truncated>0</truncated><bndbox><xmin>78</xmin><ymin>137</ymin><xmax>116</xmax><ymax>156</ymax></bndbox></object></annotations>
+<annotations><filename>Calc-Training_P_01229_RIGHT_CC.jpg</filename><folder>images</folder><size><width>1600</width><height>1200</height><depth>3</depth></size><object><name>tumor</name><difficult>0</difficult><pose>Unspecified</pose><truncated>0</truncated><bndbox><xmin>156</xmin><ymin>274</ymin><xmax>232</xmax><ymax>312</ymax></bndbox></object></annotations>
