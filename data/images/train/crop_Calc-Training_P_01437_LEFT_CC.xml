@@ -1,0 +1,81 @@
+<annotation>
+    <folder>images</folder>
+    <filename>crop_Calc-Training_P_01437_LEFT_CC.jpg</filename>
+    <path>/home/uniqueness/anaconda3/crop_Calc-Training_P_01437_LEFT_CC.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>787</xmin>
+            <ymin>1588</ymin>
+            <xmax>884</xmax>
+            <ymax>1709</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>347</xmin>
+            <ymin>1452</ymin>
+            <xmax>452</xmax>
+            <ymax>1573</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>139</xmin>
+            <ymin>868</ymin>
+            <xmax>260</xmax>
+            <ymax>965</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>563</xmin>
+            <ymin>228</ymin>
+            <xmax>660</xmax>
+            <ymax>325</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>475</xmin>
+            <ymin>452</ymin>
+            <xmax>588</xmax>
+            <ymax>541</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>219</xmin>
+            <ymin>1188</ymin>
+            <xmax>340</xmax>
+            <ymax>1301</ymax>
+        </bndbox>
+    </object>
+</annotation>
