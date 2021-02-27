@@ -1,0 +1,70 @@
+<annotation>
+    <folder>images</folder>
+    <filename>crop_Calc-Training_P_00008_RIGHT_MLO.jpg</filename>
+    <path>/home/uniqueness/anaconda3/crop_Calc-Training_P_00008_RIGHT_MLO.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1024</width>
+        <height>1024</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>64</xmin>
+            <ymin>1500</ymin>
+            <xmax>193</xmax>
+            <ymax>1733</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>832</xmin>
+            <ymin>708</ymin>
+            <xmax>913</xmax>
+            <ymax>781</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>232</xmin>
+            <ymin>1876</ymin>
+            <xmax>345</xmax>
+            <ymax>2117</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1120</xmin>
+            <ymin>364</ymin>
+            <xmax>1217</xmax>
+            <ymax>461</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>tumor</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>80</xmin>
+            <ymin>1996</ymin>
+            <xmax>137</xmax>
+            <ymax>2061</ymax>
+        </bndbox>
+    </object>
+</annotation>
